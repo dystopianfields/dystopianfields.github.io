@@ -1,0 +1,170 @@
+@font-face {
+    font-family: ClearSans;
+    src: url('../fonts/ClearSans-Regular.eot');
+    src: url('../fonts/ClearSans-Regular.eot?#iefix') format('embedded-opentype'),
+        url('../fonts/ClearSans-Regular.woff') format('woff'),
+        url('../fonts/ClearSans-Regular.ttf') format('truetype'),
+        url('../fonts/ClearSans-Regular.svg#open_sans') format('svg');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: ClearSans;
+    src: url('../fonts/ClearSans-Bold.eot');
+    src: url('../fonts/ClearSans-Bold.eot?#iefix') format('embedded-opentype'),
+        url('../fonts/ClearSans-Bold.woff') format('woff'),
+        url('../fonts/ClearSans-Bold.ttf') format('truetype'),
+        url('../fonts/ClearSans-Bold.svg#open_sansbold') format('svg');
+    font-weight: bold;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: ClearSans;
+    src: url('../fonts/ClearSans-BoldItalic.eot');
+    src: url('../fonts/ClearSans-BoldItalic.eot?#iefix') format('embedded-opentype'),
+        url('../fonts/ClearSans-BoldItalic.woff') format('woff'),
+        url('../fonts/ClearSans-BoldItalic.ttf') format('truetype'),
+        url('../fonts/ClearSans-BoldItalic.svg#open_sansbold_italic') format('svg');
+    font-weight: bold;
+    font-style: italic;
+}
+
+@font-face {
+    font-family: ClearSans;
+    src: url('../fonts/ClearSans-Italic.eot');
+    src: url('../fonts/ClearSans-Italic.eot?#iefix') format('embedded-opentype'),
+        url('../fonts/ClearSans-Italic.woff') format('woff'),
+        url('../fonts/ClearSans-Italic.ttf') format('truetype'),
+        url('../fonts/ClearSans-Italic.svg#open_sansitalic') format('svg');
+    font-weight: normal;
+    font-style: italic;
+}
+
+html,
+body {
+    height: 100%;
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    font-size: 16px;
+    line-height: 1.4;
+    font-family: ClearSans;
+    background: url('/static/img/bg.jpg') no-repeat center center fixed;
+    background-color: #111;
+    color: #fff;
+    text-shadow: #111;
+    background-size: cover;
+}
+
+a {
+    color: #00bc6f;
+}
+
+img.txt {
+    float: left;
+    padding: 10px 10px 10px 0;
+    display: block;
+}
+
+.post img {
+    display: block;
+    margin: auto;
+    max-width: 90%;
+}
+
+#wrapper {
+    height: auto;
+    min-height: 100%;
+    padding-bottom: 80px;
+}
+
+a:hover,
+a:active,
+a:visited {
+    color: #001b6f;
+    text-decoration: underline;
+}
+
+a.text-muted {
+    color: #555;
+}
+
+.avatar {
+    margin: auto;
+    max-width: 200px;
+    margin-top: 40px;
+}
+
+.about {
+    color: #ccc;
+    text-shadow: 1px 1px 1px black;
+    font-size: .9em;
+}
+
+.content {
+    margin-top: 30px;
+}
+
+.post-title {
+    margin-top: -10px;
+    margin-bottom: 20px;
+}
+
+.card-deck {
+    justify-content: center;
+}
+
+.card {
+    max-width: 400px;
+    min-width: 400px;
+    height: 270px;
+    margin: 20px;
+    text-decoration: none;
+    transition: all .25s;
+    background: transparent;
+    border: none;
+}
+
+@media (max-width: 600px) {
+
+    .card {
+        align-self: center;
+        max-width: 210px;
+        min-width: 210px;
+        height: 210px;
+    }
+}
+
+a.card {
+    color: #ccc;
+    text-shadow: 1px 1px 2px black;
+}
+
+.card:hover {
+    box-shadow: 0 2px 10px rgba(0, 0, 0, 0.2);
+    text-decoration: none;
+    filter: grayscale(100%);
+}
+
+.card-img {
+    background-size: cover;
+    height: 250px;
+    box-shadow: 0 2px 10px rgba(0, 0, 0, 0.2);
+}
+
+.card-block {
+    padding: 10px;
+}
+
+.card-title {
+    margin-bottom: 0;
+    text-align: center;
+}
+
+p {
+    margin-top: 20px;
+}

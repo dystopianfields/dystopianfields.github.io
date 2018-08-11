@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <title>{{ sitename }}{% block title %}{% endblock title %}</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link href="/feed.xml" rel="alternate" type="application/rss+xml" title="{{ sitename }}">
+    <meta property="og:site_name" content="{{ sitename }}">
+    {% block meta %}
+      <meta property="og:title" content="{{ sitename }}">
+      <meta property="og:type" content="website">
+      <meta property="og:url" content="{{ rooturl }}{{ link }}">
+    {% endblock %}
+    <meta property="og:image" content="{{ rooturl }}static/img/{{ logo }}">
+    <link rel="stylesheet" href="/static/lib/bootstrap/dist/css/bootstrap.min.css">
+    <link rel="stylesheet" href="/static/lib/fork-awesome/css/fork-awesome.min.css">
+    <link rel="stylesheet" href="/static/css/app.css">
+    {% block css %}{% endblock %}
+    <link rel="shortcut icon" href="/favicon.ico">
+  </head>
+
+  <body>
+    <div id="wrapper">
+
+      <div class="container">
+        <div class="row">
+          <div class="col-md-4 text-center">
+            <a href="/">
+              <img src="/static/img/{{ logo }}" alt="{{ author }}" class="avatar img-circle" />
+            </a>
+          </div>
+          <div class="col-md-8">
+            <p class="about">
+              “We have nothing but our freedom. We have nothing to give you but your own freedom. We have no law but the single principle of mutual aid between individuals. We have no government but the single principle of free association. We have no states, no nations, no presidents, no premiers, no chiefs, no generals, no bosses, no bankers, no landlords, no wages, no charity, no police, no soldiers, no wars. Nor do we have much else. We are sharers, not owners. We are not prosperous. None of us is rich. None of us is powerful.”
+            </p>
+          </div>
+        </div>
+      </div>
+
+      <div class="content">
+        {% block content %}{% endblock content %}
+      </div>
+
+    </div>
+
+    <script src="/static/lib/jquery/dist/jquery.min.js"></script>
+    <script src="/static/lib/popper.js/dist/umd/popper.min.js"></script>
+    <script src="/static/lib/bootstrap/dist/js/bootstrap.min.js"></script>
+    {% block javascript %}
+    {% endblock javascript %}
+  </body>
+</html>
