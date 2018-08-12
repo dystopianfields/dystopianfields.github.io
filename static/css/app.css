@@ -79,14 +79,8 @@ img.txt {
 #wrapper {
     height: auto;
     min-height: 100%;
-    padding-bottom: 80px;
-}
-
-a:hover,
-a:active,
-a:visited {
-    color: #001b6f;
-    text-decoration: underline;
+    padding-bottom: 20px;
+    margin-bottom: -40px;
 }
 
 a.text-muted {
@@ -139,9 +133,16 @@ a.text-muted {
     }
 }
 
-a.card {
+a {
     color: #ccc;
     text-shadow: 1px 1px 2px black;
+}
+
+a:hover,
+a:active,
+a:visited {
+    color: #ccc;
+    text-decoration: underline;
 }
 
 .card:hover {
@@ -167,4 +168,19 @@ a.card {
 
 p {
     margin-top: 20px;
+}
+
+.social,
+.year {
+    display: inline-block;
+    margin: 0 10px;
+}
+
+footer {
+    color: #ccc;
+    text-shadow: 1px 1px 1px black;
+    font-size: .9em;
+    height: 40px;
+    text-align: center;
+    padding: 20px 0px;
 }

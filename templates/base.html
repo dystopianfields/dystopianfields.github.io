@@ -24,16 +24,25 @@
 
       <div class="container">
         <div class="row">
-          <div class="col-md-4 text-center">
+          <div class="text-center {% block logo_class %}col-md-4{% endblock %}">
             <a href="/">
               <img src="/static/img/{{ logo }}" alt="{{ author }}" class="avatar img-circle" />
             </a>
           </div>
-          <div class="col-md-8">
-            <p class="about">
-              “We have nothing but our freedom. We have nothing to give you but your own freedom. We have no law but the single principle of mutual aid between individuals. We have no government but the single principle of free association. We have no states, no nations, no presidents, no premiers, no chiefs, no generals, no bosses, no bankers, no landlords, no wages, no charity, no police, no soldiers, no wars. Nor do we have much else. We are sharers, not owners. We are not prosperous. None of us is rich. None of us is powerful.”
-            </p>
-          </div>
+          {% block about %}
+            <div class="col-md-8">
+              <p class="about">
+                “We have nothing but our freedom. We have nothing to give you but your own freedom.
+                We have no law but the single principle of mutual aid between individuals.
+                We have no government but the single principle of free association.
+                We have no states, no nations, no presidents, no premiers, no chiefs, no generals,
+                no bosses, no bankers, no landlords, no wages, no charity, no police, no soldiers,
+                no wars. Nor do we have much else. We are sharers, not owners. We are not prosperous.
+                None of us is rich. None of us is powerful.”
+                ~ The Dispossessed [Ursula K. Le Guin]
+              </p>
+            </div>
+          {% endblock %}
         </div>
       </div>
 
@@ -42,6 +51,14 @@
       </div>
 
     </div>
+
+    <footer>
+      <span class="year"><i class="fa fa-creative-commons" aria-hidden="true"></i> 2018</span>
+      &bull;
+      <a href="/feed.xml" target="_blank" class="social"><i class="fa fa-rss" aria-hidden="true"></i></a>
+      <a href="https://facebook.com/DystopianFields/" target="_blank" class="social"><i class="fa fa-facebook-official" aria-hidden="true"></i></a>
+      <a href="https://github.com/dystopianfields" target="_blank" class="social"><i class="fa fa-github" aria-hidden="true"></i></a>
+    </footer>
 
     <script src="/static/lib/jquery/dist/jquery.min.js"></script>
     <script src="/static/lib/popper.js/dist/umd/popper.min.js"></script>
