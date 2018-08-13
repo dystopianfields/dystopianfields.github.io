@@ -80,7 +80,7 @@ img.txt {
     height: auto;
     min-height: 100%;
     padding-bottom: 20px;
-    margin-bottom: -40px;
+    margin-bottom: -50px;
 }
 
 a.text-muted {
@@ -180,7 +180,7 @@ footer {
     color: #ccc;
     text-shadow: 1px 1px 1px black;
     font-size: .9em;
-    height: 40px;
+    height: 50px;
     text-align: center;
     padding: 20px 0px;
 }
