@@ -170,6 +170,16 @@ p {
     margin-top: 20px;
 }
 
+.breadcrumb {
+    background-color: transparent;
+    padding: .75rem 0;
+}
+
+.breadcrumb-item.active {
+    color: white;text-shadow: 1px 1px 2px black;
+
+}
+
 .social,
 .year {
     display: inline-block;
