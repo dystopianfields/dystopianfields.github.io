@@ -6,7 +6,24 @@
   <link href="https://dystopianfields.github.io/" />
   <icon>https://dystopianfields.github.io/favicon.ico</icon>
   <logo>https://dystopianfields.github.io/static/img/dystopianfields.png</logo>
-  <updated>2018-08-21T11:28:21Z</updated>
+  <updated>2018-10-11T14:25:06Z</updated>
+  
+    <entry>
+      <title>Crossroad</title>
+      <link href="https://dystopianfields.github.io/v/crossroad/"/>
+      <content type="html">
+        <![CDATA[
+          <div class="embed-responsive embed-responsive-16by9">
+    <iframe class="embed-responsive-item" width="560" height="315" src="https://www.youtube-nocookie.com/embed/q3h1yDDaUag?rel=0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+</div>
+
+<p class="text-muted">
+    κείμενο: the road not taken [robert frost]
+</p>
+        ]]>
+      </content>
+      <published>2018-10-11 11:12:13</published>
+    </entry>
   
     <entry>
       <title>Abyss</title>
