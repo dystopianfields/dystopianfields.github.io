@@ -1,11 +1,13 @@
 {
     "devDependencies": {
-        "gulp": "^3.9.1",
+        "eslint": "^5.15.1",
+        "gulp": "^4.0.0",
         "gulp-clean-css": "^3.7.0",
         "gulp-eslint": "^4.0.0",
         "gulp-filter": "^5.0.0",
-        "gulp-stylelint": "^3.9.0",
-        "gulp-uglify": "^3.0.0"
+        "gulp-stylelint": "^8.0.0",
+        "gulp-uglify": "^3.0.0",
+        "stylelint": "^9.10.1"
     },
     "dependencies": {
         "bootstrap": "^4.1.3",
