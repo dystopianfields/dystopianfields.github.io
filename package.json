@@ -1,26 +1,23 @@
 {
     "devDependencies": {
-        "eslint": "^5.15.1",
-        "gulp": "^4.0.0",
-        "gulp-clean-css": "^3.7.0",
-        "gulp-eslint": "^4.0.0",
+        "eslint": "^5.16.0",
+        "gulp": "^4.0.2",
+        "gulp-clean-css": "^4.2.0",
+        "gulp-eslint": "^5.0.0",
         "gulp-filter": "^5.0.0",
-        "gulp-stylelint": "^8.0.0",
+        "gulp-stylelint": "^9.0.0",
         "gulp-uglify": "^3.0.0",
-        "stylelint": "^9.10.1"
+        "stylelint": "^10.0.1"
     },
     "dependencies": {
         "bootstrap": "^4.1.3",
         "fork-awesome": "^1.1.0",
         "jquery": "^3.4.1",
-        "popper.js": "^1.14.3"
+        "popper.js": "^1.15.0"
     },
     "assets": [
         "bootstrap/dist/css/bootstrap.min.css",
-        "bootstrap/dist/js/bootstrap.min.js",
         "fork-awesome/css/fork-awesome.min.css",
-        "fork-awesome/fonts/*",
-        "jquery/dist/jquery.min.js",
-        "popper.js/dist/umd/popper.min.js"
+        "fork-awesome/fonts/*"
     ]
 }
