@@ -6,7 +6,7 @@
   <link href="https://dystopianfields.github.io/" />
   <icon>https://dystopianfields.github.io/favicon.ico</icon>
   <logo>https://dystopianfields.github.io/static/img/dystopianfields.png</logo>
-  <updated>2019-03-14T20:51:59Z</updated>
+  <updated>2019-05-25T15:12:26Z</updated>
   
     <entry>
       <title>Origin</title>
@@ -14,7 +14,7 @@
       <content type="html">
         <![CDATA[
           <div class="embed-responsive embed-responsive-16by9">
-    <iframe class="embed-responsive-item" width="560" height="315" src="https://www.youtube-nocookie.com/embed/IxNNeUx4skc?rel=0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+    <iframe class="embed-responsive-item" width="560" height="315" sandbox="allow-same-origin allow-scripts" src="https://open.tube/videos/embed/db5ce375-6caf-46af-b9a8-43ac9f1160ab" frameborder="0" allowfullscreen></iframe>
 </div>
 
 <p class="text-muted">
@@ -31,7 +31,7 @@
       <content type="html">
         <![CDATA[
           <div class="embed-responsive embed-responsive-16by9">
-    <iframe class="embed-responsive-item" width="560" height="315" src="https://www.youtube-nocookie.com/embed/q3h1yDDaUag?rel=0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+    <iframe class="embed-responsive-item" width="560" height="315" sandbox="allow-same-origin allow-scripts" src="https://open.tube/videos/embed/99978912-d4fa-4fcc-bed4-8c11b285eb11" frameborder="0" allowfullscreen></iframe>
 </div>
 
 <p class="text-muted">
@@ -48,7 +48,7 @@
       <content type="html">
         <![CDATA[
           <div class="embed-responsive embed-responsive-16by9">
-    <iframe class="embed-responsive-item" width="560" height="315" src="https://www.youtube-nocookie.com/embed/C2HXZUlrIh0?rel=0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+    <iframe class="embed-responsive-item" width="560" height="315" sandbox="allow-same-origin allow-scripts" src="https://open.tube/videos/embed/62f70e16-336a-4b14-a56b-dbae905f0475" frameborder="0" allowfullscreen></iframe>
 </div>
 
 <p class="text-muted">
@@ -65,7 +65,7 @@
       <content type="html">
         <![CDATA[
           <div class="embed-responsive embed-responsive-16by9">
-    <iframe class="embed-responsive-item" width="560" height="315" src="https://www.youtube-nocookie.com/embed/xJV1GllDl7g?rel=0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+    <iframe class="embed-responsive-item" width="560" height="315" sandbox="allow-same-origin allow-scripts" src="https://open.tube/videos/embed/4891d7fe-13b9-4d2e-808c-9053c5efa72a" frameborder="0" allowfullscreen></iframe>
 </div>
 
 <p class="text-muted">
