@@ -6,7 +6,27 @@
   <link href="https://dystopianfields.github.io/" />
   <icon>https://dystopianfields.github.io/favicon.ico</icon>
   <logo>https://dystopianfields.github.io/static/img/dystopianfields.png</logo>
-  <updated>2019-06-21T11:28:55Z</updated>
+  <updated>2020-03-20T22:28:50Z</updated>
+  
+    <entry>
+      <title>die stille</title>
+      <link href="https://dystopianfields.github.io/v/die-stille/"/>
+      <content type="html">
+        <![CDATA[
+          <div class="embed-responsive embed-responsive-16by9">
+    <iframe class="embed-responsive-item" width="560" height="315" sandbox="allow-same-origin allow-scripts" src="https://open.tube/videos/embed/29c71c76-34b5-4cd8-b832-a3a0f6a39b11" frameborder="0" allowfullscreen></iframe>
+</div>
+
+<p class="text-muted">
+    videos: oceanogràfic, valencia [jul 2019]
+    words: das Denken bei sich, hans kudszus
+    samples: cello suite no. 2, bach, perfomed by steuart pincombe
+    field recordings: castel dell'ovo, naples [dec 2019]
+</p>
+        ]]>
+      </content>
+      <published>2020-03-21 11:13:12</published>
+    </entry>
   
     <entry>
       <title>Seesaw</title>
@@ -16,13 +36,18 @@
           <div class="embed-responsive embed-responsive-16by9">
     <iframe class="embed-responsive-item" width="560" height="315" sandbox="allow-same-origin allow-scripts" src="https://open.tube/videos/embed/29c71c76-34b5-4cd8-b832-a3a0f6a39b11" frameborder="0" allowfullscreen></iframe>
 </div>
+
+<p class="text-muted">
+    videos: petralona, athens [jun 2019]
+    field recordings: children playing by goldkelchen, pechenyshki, nonzeroenfilade
+</p>
         ]]>
       </content>
       <published>2019-06-21 11:13:12</published>
     </entry>
   
     <entry>
-      <title>Origin</title>
+      <title>origin</title>
       <link href="https://dystopianfields.github.io/v/origin/"/>
       <content type="html">
         <![CDATA[
@@ -31,7 +56,9 @@
 </div>
 
 <p class="text-muted">
-    text: the tambourine man [tassos leivaditis]
+    videos: petralona, athens [mar 2019]
+    words: ο άνθρωπος με το ταμπούρλο, τάσος λειβαδίτης
+    field recordins: e75, malakasa [nov 2018]
 </p>
         ]]>
       </content>
@@ -39,7 +66,7 @@
     </entry>
   
     <entry>
-      <title>Crossroad</title>
+      <title>crossroad</title>
       <link href="https://dystopianfields.github.io/v/crossroad/"/>
       <content type="html">
         <![CDATA[
@@ -48,7 +75,10 @@
 </div>
 
 <p class="text-muted">
-    κείμενο: the road not taken [robert frost]
+    videos: norway [jul 2017]
+    words: the road not taken, robert frost
+    samples: the road not take recited by robert frost
+    field recordings: petralona, athens [sep 2019]
 </p>
         ]]>
       </content>
@@ -56,7 +86,7 @@
     </entry>
   
     <entry>
-      <title>Abyss</title>
+      <title>abyss</title>
       <link href="https://dystopianfields.github.io/v/abyss/"/>
       <content type="html">
         <![CDATA[
@@ -65,7 +95,9 @@
 </div>
 
 <p class="text-muted">
-    κείμενο: τάδε έφη ζαρατούστρας [φρίντριχ νίτσε]
+    videos: sikinos [jul 2018]
+    words: τάδε έφη ζαρατούστρας, φρίντριχ νίτσε
+    field recordings: sikinos [jul 2018] - agia anna, euboia [aug 2018]
 </p>
         ]]>
       </content>
@@ -73,7 +105,7 @@
     </entry>
   
     <entry>
-      <title>Αλμύρα</title>
+      <title>αλμύρα</title>
       <link href="https://dystopianfields.github.io/v/almira/"/>
       <content type="html">
         <![CDATA[
@@ -82,7 +114,9 @@
 </div>
 
 <p class="text-muted">
-    κείμενο: πριν και μετά την έρημο [cham.kor.] (φανζίν χίμαιρες τ.5)
+    videos: sikinos [jul 2018]
+    words: πριν και μετά την έρημο, cham.kor. [φανζίν χίμαιρες τ.5]
+    field recordings: agia anna, euboia [aug 2018]
 </p>
         ]]>
       </content>

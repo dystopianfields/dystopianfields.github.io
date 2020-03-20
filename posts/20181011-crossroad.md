@@ -1,4 +1,4 @@
-title: Crossroad
+title: crossroad
 slug: crossroad
 date: 2018-10-11 11:12:13
 files: crossroad.jpg
@@ -9,6 +9,9 @@ files: crossroad.jpg
 </div>
 
 <p class="text-muted">
-    κείμενο: the road not taken [robert frost]
+    videos: norway [jul 2017]
+    words: the road not taken, robert frost
+    samples: the road not take recited by robert frost
+    field recordings: petralona, athens [sep 2019]
 </p>
 
