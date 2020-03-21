@@ -9,9 +9,9 @@ files: crossroad.jpg
 </div>
 
 <p class="text-muted">
-    videos: norway [jul 2017]
-    words: the road not taken, robert frost
-    samples: the road not take recited by robert frost
+    videos: norway [jul 2017]<br>
+    words: the road not taken, robert frost<br>
+    samples: the road not take recited by robert frost<br>
     field recordings: petralona, athens [sep 2019]
 </p>
 
